@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: keras-opt
+Version: 0.0.1
+Summary: Scipy keras optimizer
+Home-page: https://github.com/pedro-r-marques/keras-opt
+Author: Pedro Marques
+Author-email: pedro.r.marques@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7

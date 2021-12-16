@@ -1,0 +1,10 @@
+README.md
+setup.py
+keras_opt/__init__.py
+keras_opt/scipy_optimizer.py
+keras_opt/scipy_optimizer_test.py
+keras_opt.egg-info/PKG-INFO
+keras_opt.egg-info/SOURCES.txt
+keras_opt.egg-info/dependency_links.txt
+keras_opt.egg-info/requires.txt
+keras_opt.egg-info/top_level.txt
