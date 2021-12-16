@@ -1,6 +1,0 @@
-steps：
-
-1. open cmd
-2. navigate to the istallation directory
-3. python setup.py build
-4. python setup.py install
